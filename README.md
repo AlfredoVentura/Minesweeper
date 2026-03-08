@@ -72,19 +72,6 @@ Lose Condition
 
 Click on a mine.
 
-📂 Project Structure
-Minesweeper
-│
-├── src
-│   ├── Main.java
-│   ├── Game.java
-│   ├── Board.java
-│   └── Cell.java
-│
-└── README.md
-
-(Structure may vary depending on the project organization.)
-
 💡 Features
 
 Graphical interface using Java Swing
